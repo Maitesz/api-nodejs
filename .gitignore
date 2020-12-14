@@ -1,0 +1,11 @@
+node_modules
+logs
+.nyc_output
+coverage
+dist
+test-report.xml
+pdf/*
+respaldo
+package-lock.json
+.DS_Store
+.idea
